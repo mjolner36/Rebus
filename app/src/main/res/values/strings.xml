@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Riddle</string>
+    <string-array name="Words">
+        <item>fire</item>
+        <item>river</item>
+        <item>cloud</item>
+        <item>towel</item>
+        <item>breath</item>
+        <item>ball</item>
+        <item>rainbow</item>
+        <item>cutlery</item>
+        <item>chair</item>
+        <item>candle</item>
+        <item>parrot</item>
+        <item>dog</item>
+        <item>cat</item>
+        <item>mouse</item>
+        <item>elephant</item>
+
+
+    </string-array>
+
+    <string-array name="Puzzey">
+        <item>I am always hungry, I must always be fed, The finger I touch, Will soon turn red.</item>
+        <item>Always runs but never walks,
+            often murmurs, never talks,
+            has a bed but never sleeps,
+            has a mouth but never eats? </item>
+        <item>I fly, yet I have no wings. I cry, yet I have no eyes.
+            Darkness follows me;Lower light I never see</item>
+        <item>What gets wetter and wetter the more it dries?</item>
+        <item>I’m lighter than a feather, yet the strongest man can’t hold me for more than 5 minutes.</item>
+        <item>It is blue and green, and red,
+            It bounces higher than my head,
+            It does not want to stop at all.
+            What is it? It is my… </item>
+        <item>I am purple, yellow, red, and green
+                The King cannot reach me and neither can the Queen.
+                I show my colors after the rain
+            And only when the sun comes out again. </item>
+        <item>You bought me for dinner but never eat me. What am I?</item>
+        <item>What has legs but cannot walk?</item>
+        <item>I’m tall when I’m young, and I’m short when I’m old. What am I?</item>
+        <item>So colorful and bright,
+            Is fond of talking much.
+            Likes eating carrot
+            It is...a parrot.</item>
+        <item>I’m a pet that has four legs
+            And a tail at the end
+            You might hear me barking
+            And I’m known as man’s best friend</item>
+        <item>I am a pet.
+            I like mice.
+            I have nine lives.
+            I purr and meow.</item>
+        <item>I live in the house.
+                I eat everything.
+                I am small and grey.
+            Cats eat me.</item>
+        <item>A very long nose.
+It grows and grows.
+Не is huge and likes fun.</item>
+    </string-array>
+
+</resources>
